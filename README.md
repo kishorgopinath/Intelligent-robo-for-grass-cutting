@@ -1,5 +1,5 @@
 # Intelligent-robo-for-grass-cutting
-Mechatronics Oriented Project - Done at final year(2019).
+Mechatronics-oriented project completed in final year (2019): Smart Grass Cutting Robot.
 
 ***Integrated Both Variant Manual and Automatic***
 
