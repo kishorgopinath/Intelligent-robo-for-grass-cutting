@@ -7,7 +7,6 @@ Mechatronics Oriented Project - Done at final year(2019).
 
 **Working Principle**
 1. Robo can operate based on user need. It has two type mode manual and automatic.
-
    Mode can be change in application though mobile phone.
    Application developer though MIT Inventor. ( Create by block Module)
    
