@@ -13,19 +13,9 @@ The Smart Grass Cutting Robot is designed to sense and maintain grass height aut
 It ensures that the grass remains evenly leveled every day, improving lawn maintenance efficiency and reducing human effort.
 
 **Key Features**
-
-Grass Sensing and Cutting
-
-The robot uses sensors to detect the height of grass.
-
-It automatically adjusts the cutting blade to maintain the desired height or level up uneven areas.
-
-Cutting operations can be performed based on user-defined requirements.
-
 Dual Operating Modes
 
 **Manual Mode:**
-
 The user can directly control the robot’s movement and cutting operation through a mobile app.
 
 **Automatic Mode:**
@@ -33,7 +23,6 @@ The robot operates independently, following pre-set instructions to sense and cu
 The mode can be switched easily through the mobile application.
 
 **Mobile Application Control**
-
 The robot is connected to a mobile app developed using MIT App Inventor (block-based programming).
 
 The app allows users to:
@@ -42,7 +31,6 @@ Control the rack and pinion movement (blade height control).
 
 
 **Rack and Pinion Mechanism**
-
 The rack and pinion system controls the vertical movement of the cutting blade.
 This mechanism is controlled through the same mobile app, both in manual and automatic modes.
    
