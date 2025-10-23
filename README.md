@@ -1,10 +1,9 @@
-# Intelligent-robo-for-grass-cutting
+# Intelligent  Robo for grass cutting using android application
 Mechatronics-oriented project completed in final year (2019): Smart Grass Cutting Robot.
 
 ***Integrated Both Variant Manual and Automatic***
 
-<img width="630" height="803" alt="{AD9971BA-FF93-443D-B1EB-A3F34CB2E84F}" src="https://github.com/user-attachments/assets/47db897e-58dd-4441-a035-ec5a2eba8645" />
-
+<img width="1024" height="1536" alt="Image Oct 23, 2025, 10_09_13 PM" src="https://github.com/user-attachments/assets/db6fcbbc-2e41-4a83-a542-da3637633978" />
 
 **Smart Grass Cutting Robot**
 **Overview**
@@ -34,6 +33,7 @@ Control the rack and pinion movement (blade height control).
 The rack and pinion system controls the vertical movement of the cutting blade.
 This mechanism is controlled through the same mobile app, both in manual and automatic modes.
    
+<img width="1536" height="1024" alt="Image Oct 23, 2025, 10_05_02 PM" src="https://github.com/user-attachments/assets/a3039a7d-15b7-423a-af75-3eb53ed0fea4" />
 
 **Hardware Components**
 1. ACP (ALuminum Composite Panel)
