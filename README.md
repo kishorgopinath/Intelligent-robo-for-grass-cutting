@@ -51,5 +51,5 @@ This mechanism is controlled through the same mobile app, both in manual and aut
 13. Jumper Wires
 
 **Software Components**
-1. Arudnio platform (Open-Source)
+1. Arudino platform (Open-Source)
 2. MIT Invertor (Open-Source)
