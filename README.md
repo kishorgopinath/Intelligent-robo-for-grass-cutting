@@ -1,4 +1,4 @@
-# Intelligent  Robo for grass cutting using android application
+# Intelligent  Robo for Grass Cutting using Android Application
 Mechatronics-oriented project completed in final year (2019): Smart Grass Cutting Robot.
 
 ***Integrated Both Variant Manual and Automatic***
