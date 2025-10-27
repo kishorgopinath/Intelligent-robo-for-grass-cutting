@@ -14,15 +14,24 @@ It ensures that the grass remains evenly leveled every day, improving lawn maint
 **Key Features**
 Dual Operating Modes
 
+<img width="331" height="447" alt="image" src="https://github.com/user-attachments/assets/7bf3dbce-1241-4c65-8a34-bd5d9df734d9" />
+
 **Manual Mode:**
 The user can directly control the robot’s movement and cutting operation through a mobile app.
+
+<img width="277" height="434" alt="image" src="https://github.com/user-attachments/assets/770bf244-59c5-4e61-a844-ed45170a0030" />
+
 
 **Automatic Mode:**
 The robot operates independently, following pre-set instructions to sense and cut grass automatically.
 The mode can be switched easily through the mobile application.
 
+<img width="294" height="426" alt="image" src="https://github.com/user-attachments/assets/982bcf9d-9a5b-4796-a9a4-ec0531e18c0a" />
+
 **Mobile Application Control**
 The robot is connected to a mobile app developed using MIT App Inventor (block-based programming).
+
+***<img width="979" height="662" alt="image" src="https://github.com/user-attachments/assets/3a3480b4-c5b4-4831-af21-24c36ecfd891" />**
 
 The app allows users to:
 Change between manual and automatic modes.
